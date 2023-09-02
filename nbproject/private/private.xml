@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/dao/DaoFactory.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/dto/ItemDto.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/entity/ItemEntity.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/view/CustomerPanel.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/service/custom/impl/ItemServiceImpl.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/service/custom/ItemService.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/service/custom/CustomerService.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/controller/CustomerController.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/dao/custom/ItemDao.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/dao/custom/impl/ItemDaoImpl.java</file>
+            <file>file:/E:/projects/Layerd/pos-layerd/src/pos/layerd/dto/CustomerDto.java</file>
+        </group>
+    </open-files>
+</project-private>
